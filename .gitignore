@@ -48,4 +48,4 @@ dist-ssr
 # Optional coverage reports
 coverage/
 
-src/images
+src/assests/images
