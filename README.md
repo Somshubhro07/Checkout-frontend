@@ -79,6 +79,10 @@ Follow these instructions to set up and run the project locally:
 2.  Open your browser and navigate to `http://localhost:5173` (or the port specified in your console).
 
 ---
+## 🌐 Demo
+
+Check out the live demo of the project here: [Demo Site](https://checkout-frontend-34rz.onrender.com/)
+
 
 ## ✨ Author
 
